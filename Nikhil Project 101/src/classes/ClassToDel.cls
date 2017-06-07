@@ -22,7 +22,7 @@ public with sharing class ClassToDel {
         system.debug('Commit12 @Anurag');
         system.debug('C1');
         system.debug('C2'); 
-        system.debug('c3');     
+        system.debug('c3');      
         } 
         
         public static void M3U2(){  
