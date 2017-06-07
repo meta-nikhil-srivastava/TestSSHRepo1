@@ -6,8 +6,8 @@ public with sharing class ClassToDel {
         }
         
         public static void Method1(){
-        system.debug('LBBituygyy gyuogyugyuigykgyuo guigyug yugyuig'); 
-        system.debug('LBBieeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeyuig'); 
+        	system.debug('Line 1 by U2222222222222222222');
+        	system.debug('Line 2 by Nikhil') ;
             system.debug('Line 1 by U2'); 
             system.debug('Line2 by u1')  ;
             system.debug('Line3 by u2');
