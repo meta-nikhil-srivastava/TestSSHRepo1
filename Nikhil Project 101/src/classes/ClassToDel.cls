@@ -1,32 +1,32 @@
 public with sharing class ClassToDel {
-	
-	public static void plsDonotDelMe(){
-		
-			
-		}
-		
-		public static void Method1(){
-			system.debug('Line 1 by U2'); 
-			system.debug('Lggggggsasa Nikhil2'); 
-			system.debug('Line2 by u1')  ;
-			system.debug('Line3 by u2');
-			system.debug('Line 2 by U2');    
-			
-		}
-		
-		public static void M2U2(){
-		system.debug('Letscheck'); 
-		system.debug('Commit12 @Anurag');   
-		system.debug('Letscheck');  
-		system.debug('Commit12 @Anurag');
-		system.debug('C1');
-		system.debug('C2'); 
-		} 
-		
-		public static void M3U2(){  
-			 
-			
-		}
-		
+    
+    public static void plsDonotDelMe(){
+        
+            
+        }
+        
+        public static void Method1(){
+        	system.debug('Line 1 by U2222222222222222222'); 
+            system.debug('Line 1 by U2'); 
+            system.debug('Line2 by u1')  ;
+            system.debug('Line3 by u2');
+            system.debug('Line 2 by U2');    
+            
+        }
+          
+        public static void M2U2(){
+        system.debug('Letscheck'); 
+        system.debug('Commit12 @Anurag');   
+        system.debug('Letscheck');  
+        system.debug('Commit12 @Anurag');
+        system.debug('C1');
+        system.debug('C2');      
+        } 
+        
+        public static void M3U2(){  
+             
+            
+        }
+        
     
 }
